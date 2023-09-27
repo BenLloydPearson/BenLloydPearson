@@ -8,4 +8,4 @@ gitStream enables you to use YAML configuration files to optimize your code revi
 
 https://github.com/linear-b/gitstream
 
-# `/:\ gitStream`
+# [`/:\ gitStream`](https://github.com/linear-b/gitstream)
